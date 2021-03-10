@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Vinyl-Factory.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../:\Users\EdenA\OneDrive\Documents\Shenkar\Unity\Unity Projects\Vinyl Factory\Vinyl-Factory\.idea\.idea.Vinyl-Factory\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

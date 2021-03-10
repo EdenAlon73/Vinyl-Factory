@@ -9,7 +9,12 @@ ModelImporter:
   - first:
       74: 8646367956105414847
     second: Table|TableAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table
+    second: {fileID: 2100000, guid: ee8bd6cfa8699484381027df442c6f02, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

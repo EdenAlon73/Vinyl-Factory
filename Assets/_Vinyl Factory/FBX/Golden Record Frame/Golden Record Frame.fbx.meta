@@ -2,29 +2,8 @@ fileFormatVersion: 2
 guid: 8dfea2606f696d348a3db5a7cce226c8
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      74: 6521667686057820277
-    second: Golden Record|table_smAction.002
-  - first:
-      74: -2086087366910990323
-    second: Golden Record|TableAction
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Black Matte
-    second: {fileID: 2100000, guid: 859288f419bbec447842ad596d25fbdc, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Gold Metal
-    second: {fileID: 2100000, guid: 31f9bbfa4e35d464c96ffdf546dbcdf1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Recored Base Mask Golden
-    second: {fileID: 2100000, guid: 7e985730f476c8743bacc4f21bcf54db, type: 2}
+  internalIDToNameTable: []
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
