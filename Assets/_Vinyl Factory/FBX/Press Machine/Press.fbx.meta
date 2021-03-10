@@ -3,7 +3,17 @@ guid: 03a39a7c34a24c3438a3eb2ec5e61f7c
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Matte
+    second: {fileID: 2100000, guid: 9081a8fb54ded234197460a150f3f0a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Plating
+    second: {fileID: 2100000, guid: f934035fc0282714d9780ec19703fb26, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

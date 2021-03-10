@@ -1,20 +1,8 @@
 fileFormatVersion: 2
-guid: 5eb84c423463dfd46abbc433b82d321b
+guid: 6cfcc8c761edd184f958a1e4ee4f55b4
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      74: -3826814386403477574
-    second: Record Phase 4 Extras|table_smAction.002
-  - first:
-      74: 1029424663918502999
-    second: Record Phase 4 Extras|TableAction
-  - first:
-      74: 2442434990689559598
-    second: Record Phase 4 Extras Ring|table_smAction.002
-  - first:
-      74: -6920830409171517808
-    second: Record Phase 4 Extras Ring|TableAction
+  internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Material
