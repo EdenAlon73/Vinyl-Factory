@@ -7,6 +7,8 @@ public class PlaySprinklesParticles : MonoBehaviour
 {
     [SerializeField] private ParticleSystem sprinklesParticles;
     [SerializeField] private bool playParticle;
+    
+    
     private float yValue;
 
     private void Awake()
