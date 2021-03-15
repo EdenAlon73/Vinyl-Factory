@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - ParticleCollider
+  - Cutting Collider
   layers:
   - Default
   - TransparentFX

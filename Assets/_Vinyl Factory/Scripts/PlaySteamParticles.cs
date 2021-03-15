@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlaySprinklesParticles : MonoBehaviour
+public class PlaySteamParticles : MonoBehaviour
 {
-    [SerializeField] private ParticleSystem sprinklesParticles;
+    [SerializeField] private ParticleSystem steamParticles;
     [SerializeField] private bool playParticle;
     
     
@@ -14,7 +13,7 @@ public class PlaySprinklesParticles : MonoBehaviour
     private void Awake()
     {
         yValue = transform.position.y;
-        sprinklesParticles.Stop();
+        steamParticles.Stop();
     }
 
     private void Update()
@@ -26,9 +25,8 @@ public class PlaySprinklesParticles : MonoBehaviour
     private void SetParticleBool()
     {
         yValue = transform.position.y;
-        
-        
-        if (yValue >= 7)
+
+        if (yValue >= 1.61f)
         {
             playParticle = false;
         }
@@ -42,11 +40,11 @@ public class PlaySprinklesParticles : MonoBehaviour
     {
         if (playParticle)
         {
-            sprinklesParticles.Play();
+            steamParticles.Play();
         }
         else
         {
-            sprinklesParticles.Stop();
+            steamParticles.Stop();
         }
 
     }
