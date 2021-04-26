@@ -10,7 +10,7 @@ public class PlaySteamParticles : MonoBehaviour
     
     private float yValue;
 
-    private void Awake()
+    private void Start()
     {
         yValue = transform.position.y;
         steamParticles.Stop();

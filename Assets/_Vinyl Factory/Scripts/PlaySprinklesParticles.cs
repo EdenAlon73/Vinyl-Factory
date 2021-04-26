@@ -11,7 +11,7 @@ public class PlaySprinklesParticles : MonoBehaviour
     
     private float yValue;
 
-    private void Awake()
+    private void Start()
     {
         yValue = transform.position.y;
         sprinklesParticles.Stop();

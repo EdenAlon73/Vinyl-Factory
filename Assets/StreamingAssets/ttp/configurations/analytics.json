@@ -1,0 +1,12 @@
+{
+  "included": true,
+  "firebase": {
+    "googleAppId": "1:93553020423:android:7f07de0416b875a8cea4a2",
+    "apiKey": "AIzaSyD549PDfddps_9MfSiJ-3EFXax5mdufNcA",
+    "projectId": "cl-vinyl-record-factory",
+    "clientId": "93553020423-sdc54qsbin3rgqk7gd8p4npk5rr3f7rf.apps.googleusercontent.com",
+    "senderId": "93553020423",
+    "storageBucket": "cl-vinyl-record-factory.appspot.com",
+    "databaseURL": ""
+  }
+}

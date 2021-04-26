@@ -22,7 +22,7 @@ public class ProgressBar : MonoBehaviour
     private bool pressAtMax = false;
     private bool cutmachineAtMax = false;
 
-    private void Awake()
+    private void Start()
     {
         pressSlider = GameObject.Find("Slider_Press").GetComponent<Slider>();
         cutSlider = GameObject.Find("Slider_Cut").GetComponent<Slider>();
